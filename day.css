@@ -1,0 +1,9 @@
+body{
+    background-color:lightpink;
+    font-family:cursive;
+    background-image: url(img/lotus.jpg);
+    background-size:cover;
+}
+.day{
+    border: 3px double;
+}
